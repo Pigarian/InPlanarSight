@@ -11,4 +11,4 @@ quite fun to speed run. Have fun!
 
 
 
-If you're here for the source: Feel free to mention me in whatever you end up making, I'd love to check it out.
+If you're here for the source: Feel free to mention me in whatever you end up using it for, I'd love to check it out.
