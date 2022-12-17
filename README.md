@@ -1,4 +1,4 @@
-Included is finished application and the unity project with all the assets made publicly available. That said, 
+Included is the finished application as well as all the assets I can legally provide. That said, 
 this project was made in under 72 hours and as a result was not commented with others 
 in mind.
 
