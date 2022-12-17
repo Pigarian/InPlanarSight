@@ -1,14 +1,5 @@
-Included is the finished application as well as all the assets I can legally provide. That said, 
+Included are all the assets I can legally provide. That said, 
 this project was made in under 72 hours and as a result was not commented with others 
 in mind.
 
-
-
-If you're here just for the game: Play as a little cube guy as you quite literally blink through different planes to do 
-platforming, solve puzzles, and sometimes both.  This was created for my colleges game 
-jam, and as a result the game is short. But once you get the mechanics down, it becomes 
-quite fun to speed run. Have fun!
-
-
-
-If you're here for the source: Feel free to mention me in whatever you end up using it for, I'd love to check it out.
+If you're looking for the game itself, see my itch.io page listed on my profile.
